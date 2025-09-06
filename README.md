@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @hashmihammad
-- 👀 I’m interested in Data Science, Machine Learning, and exploring the vast capabilities of Python.
-- 🌱 I’m currently learning Python, with a focus on libraries like Pandas, NumPy, and Scikit-learn to dive deeper into data analysis and machine learning applications. I am also working on improving my skills in data visualization using Matplotlib and Seaborn.
-- 💞️ I’m looking to collaborate on data-driven projects, open-source contributions related to data science, and anything that involves leveraging Python for insightful analysis. My goal is to contribute to projects that solve real world problems using data science.
-- 📫 How to reach me:
-  - LinkedIn: [http://linkedin.com/in/syed-hammad-hashmi](http://linkedin.com/in/syed-hammad-hashmi)
-  - Email: hammadhashmi09@outlook.com or hashmihammad09@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Did you know that Python was named after the British comedy group Monty Python, not the snake?
-- Feel free to reach out!
+# Hi, I’m Syed Hammad Hashmi [@hashmihammad](https://github.com/hashmihammad)
+
+I’m passionate about **Data Science**, **Machine Learning**, and exploring the power of **Python**.
+
+## Currently Learning
+- Python libraries: **Pandas**, **NumPy**, **Scikit-learn**  
+- Data visualization: **Matplotlib**, **Seaborn**  
+- Data analysis and machine learning applications
+
+## Collaboration
+I’m looking to collaborate on **data-driven projects** and **open-source contributions** that solve real-world problems using Python.
+
+## Contact
+- LinkedIn: [linkedin.com/in/syed-hammad-hashmi](http://linkedin.com/in/syed-hammad-hashmi)  
+- Email: **hammadhashmi09@outlook.com** | **hashmihammad09@gmail.com**  
+
+## Pronouns
+He/Him
+
+## Fun Fact
+Python was named after the British comedy group **Monty Python**, not the snake!
